@@ -21,6 +21,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         guessLetterButton.isEnabled = false
         playAgainButton.isHidden = true
+        
     }
     
     func updateUIAfterGuess (){
