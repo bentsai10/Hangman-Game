@@ -29,6 +29,7 @@ class ViewController: UIViewController {
         playAgainButton.isHidden = true
         
     }
+    
     func updateUIAfterGuess (){
         guessedLetterField.resignFirstResponder()
         guessedLetterField.text = ""
