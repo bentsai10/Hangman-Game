@@ -20,7 +20,10 @@ Step into the Word Garden and test your logic and guessing skills(luck)!
 <ol>
   <li>Type a letter to guess. If you're correct, the flower stays intact. If not, a petal is lost!</li>
   <br>
-  <p><strong>Correct Guess:</strong></p>
-  <p align = "center"><kbd><img src = "/images/correct_guess.gif" height = "600"></kbd></p>
+  <p><strong>Correct Guess:</strong><img src = "/images/white_space.png" height = "10" width = "200"><strong>Incorrect Guess:</strong></p>
+  <p align = "center"><kbd><img src = "/images/correct_guess.gif" height = "500"></kbd></p>
+  <p></p>
+  <p align = "center"><kbd><img src = "/images/wrong_guess.gif" height = "500"></kbd></p>
+  <li>If you correctly guess the word, you save the flower, and you have the chance to keep your conservation efforts going!</li>
 </ol>
 <h3>Logic Behind the Garden</h3>
