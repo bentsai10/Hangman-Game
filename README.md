@@ -87,4 +87,4 @@ wordToGuess = newWord
 ```
 </ul>
 <h3>Word Garden is Responsive!</h3>
-<p align = "center"><kbd><img src = "/images/responsive_ipad.png" height = "500"></kbd><img src = "/images/white_space.png" width = "100"><kbd><img src = "/images/responsive_iphone_11.png" height = "500"></kbd><img src = "/images/white_space.png" width = "100"><kbd><img src = "/images/responsive_iphone_se.png" height = "500"></kbd></p>
+<p align = "center"><kbd><img src = "/images/responsive_ipad.png" height = "500" width = "200"></kbd><img src = "/images/white_space.png" width = "100"><kbd><img src = "/images/responsive_iphone_11.png" height = "500" width = "200"></kbd><img src = "/images/white_space.png" width = "100"><kbd><img src = "/images/responsive_iphone_se.png" height = "500" width = "200"></kbd></p>
