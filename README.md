@@ -86,7 +86,8 @@ repeat{
 wordToGuess = newWord
 ```
 </ul>
-<h3>Word Garden is responsive across iPads and iPhones! (Displayed images are of iPad, iPhone 11, and iPhone SE in that order)</h3>
+<h3>Word Garden is responsive across iPads and iPhones!</h3>
+<h6><em>(Displayed images are of iPad, iPhone 11, and iPhone SE in that order)</em></h6>
 <p align = "center"><kbd><img src = "/images/responsive_ipad.png" height = "500"></kbd></p>
 <br>
 <p align = "center"><kbd><img src = "/images/responsive_iphone_11.png" height = "500"></kbd><img src = "/images/white_space.png" width = "100"><kbd><img src = "/images/responsive_iphone_se.png" height = "500"></kbd></p>
